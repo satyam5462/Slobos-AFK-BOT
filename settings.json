@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "sigmarizz111.aternos.me",
-    "port": 45899,
-    "version": ""
+    "ip": "thorsmp-69.aternos.me",
+    "port": 23555,
+    "version": "1.21.10"
   },
   "position": {
     "enabled": true,
